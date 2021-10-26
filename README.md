@@ -9,4 +9,4 @@ the option to change the size of the board is enabled by the use of vector of st
 
 One problem that bugs me is checking function is quite hefty and in boards of huge size, it would take long time to just check.
 
-Pretty clean ngl.
+the UI's Pretty clean ngl.
